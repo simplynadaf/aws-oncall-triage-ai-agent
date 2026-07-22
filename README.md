@@ -21,25 +21,6 @@
 
 ---
 
-## 👨‍💻 Author
-
-<table>
-  <tr>
-    <td>
-      <strong>Sarvar Nadaf</strong><br>
-      Cloud Architect at Big 4 | 10+ Years in Cloud<br>
-      AWS x7 | Azure x2 | GCP x1<br>
-      AWS Community Builder (4 years) | Dev.to Moderator<br>
-      200+ Articles | 15K+ Followers | 240K+ Readers<br><br>
-      <a href="https://sarvarnadaf.com">🌐 sarvarnadaf.com</a> •
-      <a href="https://www.linkedin.com/in/sarvar04/">💼 LinkedIn</a> •
-      <a href="https://dev.to/sarvar_04">📝 Dev.to</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 😴 The Problem
 
 You get paged at 3AM. You fumble for your laptop. Then you spend the next 20-30 minutes doing the exact same thing every single time:
@@ -334,10 +315,19 @@ If this saved you from a 3AM triage nightmare, consider giving it a ⭐. It help
 
 ---
 
-<p align="center">
-  <strong>Built by <a href="https://sarvarnadaf.com">Sarvar Nadaf</a></strong><br>
-  Cloud Architect at Big 4 | AWS Community Builder | 7x AWS Certified<br><br>
-  <a href="https://sarvarnadaf.com">🌐 Website</a> •
-  <a href="https://www.linkedin.com/in/sarvar04/">💼 LinkedIn</a> •
-  <a href="https://dev.to/sarvar_04">📝 Dev.to</a>
-</p>
+## 👨‍💻 Author
+
+<table>
+  <tr>
+    <td>
+      <strong>Sarvar Nadaf</strong><br>
+      Cloud Architect at Big 4 | 10+ Years in Cloud<br>
+      AWS x7 | Azure x2 | GCP x1<br>
+      AWS Community Builder (4 years) | Dev.to Moderator<br>
+      200+ Articles | 15K+ Followers | 240K+ Readers<br><br>
+      <a href="https://sarvarnadaf.com">🌐 sarvarnadaf.com</a> •
+      <a href="https://www.linkedin.com/in/sarvar04/">💼 LinkedIn</a> •
+      <a href="https://dev.to/sarvar_04">📝 Dev.to</a>
+    </td>
+  </tr>
+</table>
